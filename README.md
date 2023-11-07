@@ -24,7 +24,7 @@ For the primary keys, verify that the column is unique. Otherwise, create a comp
 
 Be sure to create the tables in the correct order to handle the foreign keys.
 
-<img width="819" alt="image" src="https://github.com/ranjini-rao/sql-challenge/assets/143301151/d144618c-79c5-41b0-802e-0a3ea2c1ab85">
+- Answers available on Employee.SQL
 
 
 ## Data Analysis
@@ -45,5 +45,6 @@ List each employee in the Sales and Development departments, including their emp
 
 List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
-<img width="632" alt="image" src="https://github.com/ranjini-rao/sql-challenge/assets/143301151/7de85d56-d9b9-4b38-9b60-443f77d4f901">
+- Answers available on Query.sql
+
 
